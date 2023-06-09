@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "rocketseat.theme-omni",
+    "ritwickdey.liveserver",
+    "naumovs.color-highlight"
+  ]
+}
