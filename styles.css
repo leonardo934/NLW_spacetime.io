@@ -6,11 +6,18 @@
 body {
   background-color: #121215;
   color: #eaeaea; 
-  font-family: 'Roboto', sans-serif;
-}
 
+  font-family: 'Roboto', sans-serif;
+
+display: grid;
+grid-template-areas: "profile timeline";
+grid-template-columns: 1fr 1fr;
+grid-template-rows: 100vh;
+}
+ 
 nav {
   padding: 64px;
+  grid-area: timeline;
 }
 
 .memory {
@@ -41,4 +48,8 @@ border-radius:8px;
   font-size: 18px;
   color: #bebebf;
   line-height: 28px;
+}
+
+aside{
+  grid-area: profile; 
 }
