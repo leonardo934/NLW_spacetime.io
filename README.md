@@ -11,5 +11,5 @@ Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecno
 ## 🔗 Link
 Você pode acessar esse [link]( https://leonardo934.github.io/NLW_spacetime.io/) para visualizar o site
 
-## 💬 comentario
+## 💬 Comentario
 novas atualizações em breve 
